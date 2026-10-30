@@ -1,0 +1,17 @@
+{
+  "name": "Winter Arc Plus",
+  "short_name": "Winter Arc+",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#0b1220",
+  "description": "Daily habits, study, fitness and morning routine tracker.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
